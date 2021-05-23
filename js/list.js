@@ -3,7 +3,7 @@ const d = {
 	/*=================================================================================*/
         {
                        "vids": [
-              
+			    
                        ],
                        "name": "Titan Complex",
                        "author": "luna",
@@ -17,7 +17,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=Q_AXunN3xcI",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "ZAPHKIEL",
                        "author": "luna",
@@ -115,7 +120,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://youtu.be/7zqJQJvVeY4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Ziroikabi",
                        "author": "luna",
