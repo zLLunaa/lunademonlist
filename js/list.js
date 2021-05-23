@@ -98,6 +98,20 @@ const d = {
                        "verificationVid": "https://youtu.be/P3--0rwwEik",
                        "key": 6
         },
+	/*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Glowy",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 37361518,
+                       "pass": "",
+                       "percentToQualify": 52,
+                       "verificationVid": "https://youtu.be/vcH_SbTVKMg",
+                       "key": 7
+        },
         /*=================================================================================*/
 	{
                        "vids": [
@@ -110,7 +124,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 52,
                        "verificationVid": "https://youtu.be/5J2FDWRJx7M",
-                       "key": 7
+                       "key": 8
         },
         /*=================================================================================*/
 	{
@@ -120,11 +134,165 @@ const d = {
                        "name": "Cadrega Mode",
                        "author": "luna",
                        "more": "none",
-                       "id": 44773500,
+                       "id": 48981134,
                        "pass": "",
-                       "percentToQualify": 52,
-                       "verificationVid": "https://youtu.be/5J2FDWRJx7M",
-                       "key": 8
+                       "percentToQualify": 70,
+                       "verificationVid": "https://youtu.be/9MjU2rUiFUQ",
+                       "key": 9
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Surge of the Shield",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 61127840,
+                       "pass": "",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/Y1QqpKbwAAA",
+                       "key": 10
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Audio Expulsion",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 48679353,
+                       "pass": "",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/6i5TxqKd_1E",
+                       "key": 11
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "SubSonic",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 33387622,
+                       "pass": "",
+                       "percentToQualify": 53,
+                       "verificationVid": "https://youtu.be/F8kM-L5rGIs",
+                       "key": 12
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Glitched Memories",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 55382704,
+                       "pass": "",
+                       "percentToQualify": 55,
+                       "verificationVid": "https://youtu.be/Nbn3g9Lzd9c",
+                       "key": 13
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Infernal Abyss",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 27379546,
+                       "pass": "",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/5nnvC-fKSPE",
+                       "key": 14
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Removed Submission",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 52113279,
+                       "pass": "",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/u_Uk7IlVrO0",
+                       "key": 15
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "SPEEDRUN",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 58507437,
+                       "pass": "",
+                       "percentToQualify": 62,
+                       "verificationVid": "https://youtu.be/25v6CyYRoEQ",
+                       "key": 16
+        },
+        /*=================================================================================*/	
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Disentombed",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 63354496,
+                       "pass": "",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/RdV12EZGX3w",
+                       "key": 17
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Mystic",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 35738539,
+                       "pass": "",
+                       "percentToQualify": 65,
+                       "verificationVid": "https://youtu.be/W4QcI1VV3gs",
+                       "key": 18
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Fusion Z",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 59933468,
+                       "pass": "",
+                       "percentToQualify": 54,
+                       "verificationVid": "https://youtu.be/H2RBovHqtYo",
+                       "key": 19
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Falcon16",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 60289382,
+                       "pass": "",
+                       "percentToQualify": 60,
+                       "verificationVid": "https://youtu.be/SnAbAfgsbVg",
+                       "key": 20
         },
         /*=================================================================================*/
 	
