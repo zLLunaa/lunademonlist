@@ -1,2 +1,0 @@
-# lunademonlist
-:v xd
