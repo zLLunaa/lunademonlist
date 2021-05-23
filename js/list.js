@@ -6,7 +6,7 @@ const d = {
               
                        ],
                        "name": "Titan Complex",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 44022701,
                        "pass": "",
@@ -20,7 +20,7 @@ const d = {
               
                        ],
                        "name": "ZAPHKIEL",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 36329434,
                        "pass": "",
@@ -34,7 +34,7 @@ const d = {
               
                        ],
                        "name": "Digital Descent",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 37456092,
                        "pass": "",
@@ -48,7 +48,7 @@ const d = {
               
                        ],
                        "name": "Catalyze",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 50333567,
                        "pass": "",
@@ -62,7 +62,7 @@ const d = {
               
                        ],
                        "name": "Fabrication",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 33983930,
                        "pass": "",
@@ -76,7 +76,7 @@ const d = {
               
                        ],
                        "name": "Artificial Ascent",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 27122654,
                        "pass": "",
@@ -90,7 +90,7 @@ const d = {
               
                        ],
                        "name": "Auditory Breaker",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 51791710,
                        "pass": "",
@@ -104,13 +104,27 @@ const d = {
               
                        ],
                        "name": "Ziroikabi",
-                       "author": "",
+                       "author": "luna",
                        "more": "none",
                        "id": 44773500,
                        "pass": "",
                        "percentToQualify": 52,
                        "verificationVid": "https://youtu.be/5J2FDWRJx7M",
                        "key": 7
+        },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Cadrega Mode",
+                       "author": "luna",
+                       "more": "none",
+                       "id": 44773500,
+                       "pass": "",
+                       "percentToQualify": 52,
+                       "verificationVid": "https://youtu.be/5J2FDWRJx7M",
+                       "key": 8
         },
         /*=================================================================================*/
 	
