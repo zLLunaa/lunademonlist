@@ -124,7 +124,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://youtu.be/7zqJQJvVeY4",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Ziroikabi",
@@ -171,7 +171,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=eKkc8Jyo6AY",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Audio Expulsion",
@@ -218,7 +218,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=AYNOPu4pE-A",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Infernal Abyss",
@@ -279,7 +279,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=1iFY3of-7w0",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Mystic",
@@ -410,13 +410,13 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=I35R2uu_DhE",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "Vink",
 				       "link": "https://youtu.be/OlEm9AzoEtI",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Bloodbath",
@@ -502,7 +502,7 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/AtosFDpNsG8",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Aftermath",
@@ -521,7 +521,7 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/VKwtrI94RRc",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -541,7 +541,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=cu4Q3EwR4Is",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Breakout",
@@ -560,7 +560,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=rCMpzMzVIO4",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Niflheim",
@@ -579,7 +579,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=acum0XB_Rt8",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Artificial Dream",
@@ -598,7 +598,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=UMWhoctQCas",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "The Flawless",
@@ -617,13 +617,13 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=LIMeXOQBSQ0",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "Vink",
 				       "link": "https://youtu.be/q9W_LYllxCc",
 				       "percent": 100,
-				       "hz": "60hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "CYCLONE",
@@ -642,7 +642,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=tATa_1j5Xao",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -662,7 +662,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=AEvImZCgYso",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -682,7 +682,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=oZn5qYSS4nU",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -702,7 +702,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=oOuyiYEx6Us",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -736,7 +736,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=onsUzYT68aE",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -756,7 +756,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=w0Gs2TRyARw",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -790,7 +790,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=DDd9sCqIweM",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -810,13 +810,13 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=VQy775aNpNs",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "Vink",
 				       "link": "https://youtu.be/fcu4B61xnEM",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -864,7 +864,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=q_to0I28zas",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -884,7 +884,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=jiJNya_uZ_0",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -904,7 +904,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=bov9WkS_MsM",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
@@ -924,7 +924,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=1LKPG2fjlN8",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
               
                        ],
