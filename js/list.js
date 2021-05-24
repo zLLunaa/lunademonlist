@@ -233,6 +233,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://youtu.be/sUAjPszSFKA",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Audio Expulsion",
                        "author": "luna",
@@ -246,6 +252,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=yYqXUP61g4E",
+				       "percent": 67,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "SubSonic",
@@ -688,6 +700,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=Xy_EXHafR-o",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Niflheim",
                        "author": "luna",
@@ -704,6 +722,12 @@ const d = {
 			       {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=acum0XB_Rt8",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=aRl2Lp2QzPk",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -748,6 +772,12 @@ const d = {
 			       {
 				       "user": "Vink",
 				       "link": "https://youtu.be/q9W_LYllxCc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=OyLs-gun8FU",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -825,6 +855,12 @@ const d = {
 			       {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=Qrr5Emy28M4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=1Tnv_QKMQqU",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -948,6 +984,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=KgrBASDssOM",
+				       "percent": 100,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "Allegiance",
@@ -977,6 +1019,12 @@ const d = {
 			       {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=UhG1xVe1_uQ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": "https://youtu.be/gASpRaQQVJ0",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -1060,6 +1108,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=RBXYUZJAxf0",
+				       "percent": 100,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "Ice Carbon Diablo X",
@@ -1115,6 +1169,12 @@ const d = {
 			       {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=w1YXNwqtmio",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=E9AcWszCbYo",
 				       "percent": 100,
 				       "hz": ""
 			       },
