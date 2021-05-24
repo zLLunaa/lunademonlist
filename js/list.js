@@ -675,7 +675,7 @@ const d = {
 			       },
 			       {
 				       "user": "ash",
-				       "link": 'https://www.youtube.com/watch?v=n697ecZXT3o",
+				       "link": "https://www.youtube.com/watch?v=n697ecZXT3o",
 				       "percent": 97,
 				       "hz": ""
 			       },
