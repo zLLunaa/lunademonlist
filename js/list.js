@@ -623,7 +623,7 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/q9W_LYllxCc",
 				       "percent": 100,
-				       "hz": ""
+				       "hz": "60hz"
 			       },
                        ],
                        "name": "CYCLONE",
