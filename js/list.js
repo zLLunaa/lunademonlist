@@ -167,7 +167,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=eKkc8Jyo6AY",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Audio Expulsion",
                        "author": "luna",
@@ -209,7 +214,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=AYNOPu4pE-A",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Infernal Abyss",
                        "author": "luna",
@@ -265,7 +275,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=1iFY3of-7w0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Mystic",
                        "author": "luna",
@@ -391,7 +406,18 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=I35R2uu_DhE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/OlEm9AzoEtI",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
                        ],
                        "name": "Bloodbath",
                        "author": "luna",
@@ -447,7 +473,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=qwJ13RK764o",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Novalis",
                        "author": "luna",
@@ -461,7 +492,18 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=cHQ8ydzLXxU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/AtosFDpNsG8",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
                        ],
                        "name": "Aftermath",
                        "author": "luna",
@@ -475,6 +517,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/VKwtrI94RRc",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
               
                        ],
                        "name": "Prismatic Haze",
@@ -489,7 +537,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              			{
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=cu4Q3EwR4Is",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Breakout",
                        "author": "luna",
@@ -503,7 +556,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=rCMpzMzVIO4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Niflheim",
                        "author": "luna",
@@ -517,7 +575,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=acum0XB_Rt8",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "Artificial Dream",
                        "author": "luna",
@@ -531,7 +594,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=UMWhoctQCas",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
                        ],
                        "name": "The Flawless",
                        "author": "luna",
@@ -545,7 +613,18 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=LIMeXOQBSQ0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/q9W_LYllxCc",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
                        ],
                        "name": "CYCLONE",
                        "author": "luna",
@@ -559,6 +638,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=tATa_1j5Xao",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Annihilation Nation",
@@ -573,6 +658,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=AEvImZCgYso",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "UltraSans",
@@ -587,6 +678,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=oZn5qYSS4nU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Deception Dive",
@@ -601,6 +698,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=oOuyiYEx6Us",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Raindance",
@@ -629,6 +732,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=onsUzYT68aE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Incipient",
@@ -643,6 +752,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=w0Gs2TRyARw",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Unearthed",
@@ -671,6 +786,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=DDd9sCqIweM",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Allegiance",
@@ -685,6 +806,18 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=VQy775aNpNs",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/fcu4B61xnEM",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
               
                        ],
                        "name": "Cataclysm",
@@ -727,6 +860,12 @@ const d = {
         /*=================================================================================*/	
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=q_to0I28zas",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Thanatophobia",
@@ -741,6 +880,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=jiJNya_uZ_0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Ice Carbon Diablo X",
@@ -755,6 +900,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=bov9WkS_MsM",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Gunslinga Corridor",
@@ -769,6 +920,12 @@ const d = {
         /*=================================================================================*/
 			{
                        "vids": [
+			       {
+				       "user": "Alex",
+				       "link": "https://www.youtube.com/watch?v=1LKPG2fjlN8",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
               
                        ],
                        "name": "Acu",
