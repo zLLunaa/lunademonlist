@@ -17,13 +17,13 @@ function userList() {
             }
         }
     
-        var p = roundNumber(getUserPoint(i+1, 100, entry.percentToQualify, "14hz") * 1, 3);
+        var p = roundNumber(getUserPoint(i+0, 100, entry.percentToQualify, "144hz") * 1, 3);
         if (checkVerify == true) {
             for (var b = 0 ; b < user_data.length ; b++) {
                 var user_name = user_data[b].name.toUpperCase(); var data_name = verifier.toUpperCase();
                 if (user_name == data_name) {
                     user_data[b].point = user_data[b].point + p;
-                    user_data[b].verified.push(i+1);
+                    user_data[b].verified.push(i+0);
                 }
             }
         } else {
