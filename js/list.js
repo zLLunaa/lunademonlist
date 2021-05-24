@@ -325,6 +325,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
+				       "percent": 75,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "SPEEDRUN",
@@ -520,6 +526,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": "https://www.youtube.com/watch?v=tSb0ivANxzw",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Bloodbath",
                        "author": "luna",
@@ -599,6 +611,12 @@ const d = {
 				       "percent": 59,
 				       "hz": ""
 			       },
+			       {
+				       "user": "ash",
+				       "link": 'https://www.youtube.com/watch?v=9OZE_aCjsh4",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Novalis",
                        "author": "luna",
@@ -653,6 +671,12 @@ const d = {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=Mst4SVcztzw",
 				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "ash",
+				       "link": 'https://www.youtube.com/watch?v=n697ecZXT3o",
+				       "percent": 97,
 				       "hz": ""
 			       },
               
