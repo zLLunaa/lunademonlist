@@ -21,7 +21,7 @@ const d = {
 				       "user": "Alex",
 				       "link": "https://www.youtube.com/watch?v=Q_AXunN3xcI",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "ZAPHKIEL",
