@@ -174,6 +174,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://youtu.be/XD-MsmIr19E",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Ziroikabi",
                        "author": "luna",
@@ -187,6 +193,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "ash",
+				       "link": "https://youtu.be/cWgb_Fw_hAY",
+				       "percent": 100,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "Cadrega Mode",
@@ -460,6 +472,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       {
+				       "user": "ash",
+				       "link": "https://youtu.be/Bw-LlCv5spg",
+				       "percent": 100,
+				       "hz": ""
+			       },
               
                        ],
                        "name": "Artifice",
